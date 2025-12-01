@@ -1,6 +1,6 @@
 # Terra do Sol
 
-"Terra do Sol" aims to bring the rich cultures of pre-Columbian South America into
+"Terra do Sol" aims to bring the rich cultures of pre### Columbian South America into
 the world of Dwarf Fortress. This mod is a respectful tribute, focusing on
 authentic representation through new civilizations, religions and creatures.
 
@@ -10,8 +10,7 @@ authentic representation through new civilizations, religions and creatures.
 
 [ ] Magic Weapons Archetypes
 
-
-- Chapter 0: Inca Empire
+### Chapter 0: Inca Empire
 
 [x] Cosmogony: Shamans
 
@@ -29,7 +28,7 @@ authentic representation through new civilizations, religions and creatures.
 
 [ ] Fully organized and playable civilization
 
-- Chapter 1: Tupi Civilization
+### Chapter 1: Tupi Civilization
 
 [ ] Cosmogony
 
@@ -41,7 +40,7 @@ authentic representation through new civilizations, religions and creatures.
 
 [ ] Fully organized and playable civilization
 
-- Chapter 2: Guarani Civilizations
+### Chapter 2: Guarani Civilizations
 
 [ ] Cosmogony
 
@@ -53,7 +52,7 @@ authentic representation through new civilizations, religions and creatures.
 
 [ ] Fully organized and playable civilization
 
-- Chapter ?: Tapuias? Nazca? Many more...
+### Chapter ?: Tapuias? Nazca? Many more...
 
 [ ] Cosmogony
 
@@ -65,7 +64,7 @@ authentic representation through new civilizations, religions and creatures.
 
 [ ] Fully organized and playable civilizations
 
-- Chapter ? + 1: Expand to Mezoamerican civilizations
+### Chapter ? + 1: Expand to Mezoamerican civilizations
 
 [ ] Cosmogony
 
