@@ -1,5 +1,7 @@
 # Terra do Sol
 
+![preview](mod.png)
+
 "Terra do Sol" aims to bring the rich cultures of pre-Columbian South America into
 the world of Dwarf Fortress. This mod is a respectful tribute, focusing on
 authentic representation through new civilizations, religions and creatures.
