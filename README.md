@@ -25,7 +25,7 @@ This repository serves to divulgation purposes only.
 
 ### Chapter 0: Inca Empire
 
-[?] Cosmogony: Willaq Umu (Priests)
+[?] Cosmogony: Willaq (Prophets)
 
 [ ] Cosmogony: Rituals
 
