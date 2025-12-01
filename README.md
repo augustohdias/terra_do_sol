@@ -6,13 +6,21 @@ authentic representation through new civilizations, religions and creatures.
 
 ## Roadmap
 
-[ ] World Generation compatible Magic System
+[x] - Fully developed
+
+[?] - Work in progress...
+
+[!] - Interrupted
+
+### Continuous Development
+
+[?] World Generation compatible Magic System
 
 [ ] Magic Weapons Archetypes
 
 ### Chapter 0: Inca Empire
 
-[x] Cosmogony: Shamans
+[?] Cosmogony: Shamans
 
 [ ] Cosmogony: Rituals
 
