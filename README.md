@@ -4,6 +4,9 @@
 the world of Dwarf Fortress. This mod is a respectful tribute, focusing on
 authentic representation through new civilizations, religions and creatures.
 
+To install this mod you need to subscribe to it inside Steam Workshop (not available yet).
+This repository serves to divulgation purposes only.
+
 ## Roadmap
 
 [x] - Fully developed
