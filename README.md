@@ -25,7 +25,7 @@ This repository serves to divulgation purposes only.
 
 ### Chapter 0: Inca Empire
 
-[?] Cosmogony: Shamans
+[?] Cosmogony: Villac Umu (Priests)
 
 [ ] Cosmogony: Rituals
 
