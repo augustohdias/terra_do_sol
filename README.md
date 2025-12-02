@@ -1,8 +1,13 @@
+![preview](mod.png)
+
 # Terra do Sol
 
 "Terra do Sol" aims to bring the rich cultures of pre-Columbian South America into
 the world of Dwarf Fortress. This mod is a respectful tribute, focusing on
 authentic representation through new civilizations, religions and creatures.
+
+To install this mod you need to subscribe to it inside Steam Workshop (not available yet).
+This repository serves to divulgation purposes only.
 
 ## Roadmap
 
@@ -20,7 +25,7 @@ authentic representation through new civilizations, religions and creatures.
 
 ### Chapter 0: Inca Empire
 
-[?] Cosmogony: Shamans
+[?] Cosmogony: Willaq (Prophets)
 
 [ ] Cosmogony: Rituals
 
