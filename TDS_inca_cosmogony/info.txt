@@ -1,4 +1,4 @@
-[ID:terra_do_sol_inca_cosmogony]
+[ID:TDS_inca_cosmogony]
 [NUMERIC_VERSION:1]
 [DISPLAYED_VERSION:0.0.1]
 [EARLIEST_COMPATIBLE_NUMERIC_VERSION:1]
