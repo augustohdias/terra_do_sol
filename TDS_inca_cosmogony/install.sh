@@ -3,6 +3,7 @@
 MOD_DIR="TDS_inca_cosmogony"
 
 cd ./objects
+rm -f *.txt
 BuildDFT ./templates
 cd ..
 rm -rf "$HOME/.local/share/Steam/steamapps/common/Dwarf Fortress/mods/$MOD_DIR"

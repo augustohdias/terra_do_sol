@@ -1,4 +1,4 @@
-material_template_shamanic_rituals
+material_template_magic_stone
 
 {SIGNATURE}
 
@@ -13,7 +13,8 @@ material_template_shamanic_rituals
   [IS_STONE]
   [MELTING_POINT:NONE]
   [MOLAR_MASS:500000]
-  [BOILING_POINT:5000]
+  [BOILING_POINT:1]
+  [IGNITE_POINT:2]
   [MAT_FIXED_TEMP:10000]
-  [SPEC_HEAT:1]
+  [SPEC_HEAT:NONE]
   [UNDIGGABLE]
