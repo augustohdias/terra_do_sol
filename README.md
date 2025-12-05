@@ -72,15 +72,15 @@ Symbols:
 
 - [x] Completed  
 
-- [?] Work in progress  
+**[?] Work in progress**  
 
-- [!] Paused
+**[!] Paused**
 
 ---
 
 ## Chapter 0: Inca Empire
 
-- [?] **Cosmogony: Willaq (Prophets)** — Base magic and progression  
+**[?] Cosmogony: Willaq (Prophets)** — Base magic and progression  
 
 - [ ] **Cosmogony: Rituals** — Magic expansion  
 
@@ -224,15 +224,15 @@ Símbolos:
 
 - [x] Completo  
 
-- [?] Em desenvolvimento  
+**[?] Em desenvolvimento**  
 
-- [!] Interrompido
+**[!] Interrompido**
 
 ---
 
 ## Capítulo 0: Império Inca
 
-- [?] **Cosmogonia: Willaq (Profetas)** — Base de magia e progressão  
+**[?] Cosmogonia: Willaq (Profetas)** — Base de magia e progressão  
 
 - [ ] **Cosmogonia: Rituais** — Expansão da magia  
 
