@@ -222,11 +222,11 @@ Vejo *Terra do Sol* como uma forma de manter meu vínculo com o jogo e retribuir
 
 Símbolos:  
 
-**[x] Completo**  
+- [x] Completo  
 
-**[?] Em desenvolvimento**  
+- [?] Em desenvolvimento  
 
-**[!] Interrompido**
+- [!] Interrompido
 
 ---
 
