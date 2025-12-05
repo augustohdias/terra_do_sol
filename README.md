@@ -70,11 +70,11 @@ Creating *Terra do Sol* keeps me connected to a game I love and allows me to giv
 
 Symbols:  
 
-**[x] Completed**  
+- [x] Completed  
 
-**[?] Work in progress**  
+- [?] Work in progress  
 
-**[!] Paused**
+- [!] Paused
 
 ---
 
