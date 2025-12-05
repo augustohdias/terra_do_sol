@@ -2,11 +2,11 @@
 
 # Terra do Sol  
 
-**[English](#english-version) | [Português](#versão-em-português)**
-
 ---
 
 # English Version
+
+**[Português](#versão-em-português)**
 
 ## Terra do Sol
 
@@ -157,7 +157,7 @@ Symbols:
 ---
 
 # Versão em Português  
-**[Português](#versão-em-português) | [English](#english-version)**
+**[English](#english-version)**
 
 ## Terra do Sol
 
