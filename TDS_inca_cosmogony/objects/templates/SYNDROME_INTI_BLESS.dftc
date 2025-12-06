@@ -7,27 +7,26 @@
   [SYN_CONTACT]
   [CE_DISPLAY_TILE:TILE:165:5:0:1:START:0]
 	[CE_DISPLAY_NAME:NAME:sun whisperer:sun whisperers:sun whisperer:START:0]
-  [CE_REMOVE_TAG:HAS_BLOOD:START:0]
+  [CE_REMOVE_TAG:HAS_BLOOD:START:0] # Removing blood prevents death from fireball. I don't want to transmute the creature into another.
 	[CE_ADD_TAG:NO_FEVERS:NOFEAR:STERILE:START:0]
   [CE_CAN_DO_INTERACTION:START:0]
-    ;Skill: Fire Breath
+    # Skill: Fire Breath
     [CDI:INTERACTION:MATERIAL_EMISSION]
-    [CDI:ADV_NAME:Blow Fire]
-    [CDI:VERB:blow a giant fire burst:blows a giant fire burst:NA]
+    [CDI:ADV_NAME:Sun Wrath]
+    [CDI:VERB:invokes the sun wrath:invokes the sun wrath:NA]
 		[CDI:USAGE_HINT:ATTACK]
 		[CDI:FLOW:FIREBALL]
 		[CDI:TARGET:C:LINE_OF_SIGHT]
-		[CDI:TARGET_RANGE:C:15]
+		[CDI:TARGET_RANGE:C:20]
 		[CDI:MAX_TARGET_NUMBER:C:1]
-    [CDI:WAIT_PERIOD:50]
+    [CDI:WAIT_PERIOD:75]
   [CE_CAN_DO_INTERACTION:START:0]
-    ;Passive: Blood Boiling disease, everybody who hears this chant gets the plague. Not contagious.
+    # Passive: Blood Boiling disease, everybody who hears this chant gets the plague. Not contagious.
     [CDI:INTERACTION:SUN_FEVER]
     [CDI:USAGE_HINT:ATTACK]
-    [CDI:USAGE_HINT:DEFEND]
     [CDI:ADV_NAME:Whisper Sun Fever chant]
     [CDI:VERB:chant to the sun:chants to the sun:NA]
     [CDI:TARGET_VERB:has been cursed with endless fever:has been cursed with endless fever]
     [CDI:TARGET:VICTIM:LINE_OF_SIGHT]
-    [CDI:TARGET_RANGE:VICTIM:30] ;Huge AoE
+    [CDI:TARGET_RANGE:VICTIM:30]
     [CDI:WAIT_PERIOD:250]
