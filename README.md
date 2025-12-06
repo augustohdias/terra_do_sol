@@ -72,9 +72,9 @@ Symbols:
 
 - [x] Completed  
 
-**[?] Work in progress**  
+- ⌛ **Work in progress**  
 
-**[!] Paused**
+- ❌ **Interrupted**
 
 ---
 
@@ -82,7 +82,7 @@ Symbols:
 
 - [x] Cosmogony: Willaq (Prophets) — Base magic and progression  
 
-- [ ] **Cosmogony: Rituals** — Magic expansion  
+- ⌛ **Cosmogony: Rituals** — Magic expansion  
 
 - [ ] **Culture: Cosmetics** — Cultural and aesthetic details  
 
