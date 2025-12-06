@@ -80,7 +80,7 @@ Symbols:
 
 ## Chapter 0: Inca Empire
 
-**[?] Cosmogony: Willaq (Prophets)** — Base magic and progression  
+- [x] Cosmogony: Willaq (Prophets) — Base magic and progression  
 
 - [ ] **Cosmogony: Rituals** — Magic expansion  
 
