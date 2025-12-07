@@ -39,4 +39,4 @@ building_tds_inca_offerings
 	[COLOR:3:3:0:0:0:0:0:0:0:0:0]
 	[BUILD_ITEM:15:BAR:NONE:NONE:NONE][BUILDMAT][FIRE_BUILD_SAFE][BAR]
   [NEEDS_MAGMA]
-	[TOOLTIP:Perform offerings to gods in exchange of blessings.]
+	[TOOLTIP:Perform offerings to gods in exchange of blessings. Major Inca Gods require 100 llama bone figurines sacrifice for each attempt.]
