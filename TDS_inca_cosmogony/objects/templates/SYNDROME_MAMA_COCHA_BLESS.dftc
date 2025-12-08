@@ -8,7 +8,7 @@
   [CE_DISPLAY_TILE:TILE:165:5:0:1:START:0]
 	[CE_DISPLAY_NAME:NAME:mist-bearer:mist-bearers:mist-bearer:START:0]
 	[CE_ADD_TAG:NO_AGING:NOFEAR:START:0]
-  [CE_CAN_DO_INTERACTION:START:0]
+  [CE_CAN_DO_INTERACTION:START:3000]
     # Skill: Release pressure 
     [CDI:INTERACTION:RELEASE_PRESSURE]
     [CDI:ADV_NAME:Release pressure]
@@ -17,7 +17,7 @@
     [CDI:BP_REQUIRED:BY_TYPE:GRASP]
     [CDI:USAGE_HINT:ATTACK]
 		[CDI:TARGET_RANGE:C:10]
-    [CDI:WAIT_PERIOD:1000000]
+    [CDI:WAIT_PERIOD:3000]
   [CE_CAN_DO_INTERACTION:START:0]
     # Skill: Passive healing, this must change for healing rain only for Willaqs in the future
     [CDI:INTERACTION:OCEAN_HEAL]
