@@ -5,4 +5,7 @@
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:0.0.1]
 [AUTHOR:Guto]
 [NAME:Terra do Sol, Chapter 0 - Inca Cosmogony]
+[STEAM_TITLE:Terra do Sol, Chapter 0 - Inca Cosmogony]
+[STEAM_TAG:mod][STEAM_TAG:materials][STEAM_TAG:reaction][STEAM_TAG:magic][STEAM_TAG:interaction][STEAM_TAG:entity][STEAM_TAG:creature]
 [DESCRIPTION:"Terra do Sol" aims to bring the rich cultures of pre-Columbian South America into the world of Dwarf Fortress. This mod is a respectful tribute, focusing on authentic representation through new civilizations, religions and creatures. No Vanilla RAW files were armed in the making of this mod.]
+[STEAM_FILE_ID:3621615171]
